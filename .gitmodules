@@ -8,3 +8,6 @@
 [submodule "InsuSensCalc"]
 	path = InsuSensCalc
 	url = https://github.com/sufyansuleman/insusenscalc
+[submodule "IsletCalc"]
+	path = IsletCalc
+	url = https://github.com/sufyansuleman/isletcalc
